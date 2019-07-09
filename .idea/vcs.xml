@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Lesson3(Transciptions)" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Wiki/wikiextractor" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Wiki/xxx" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vid2vid" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../pytorch-pretrained-BERT" vcs="Git" />
+    <mapping directory="$USER_HOME$/fastai" vcs="Git" />
+  </component>
+</project>

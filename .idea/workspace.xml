@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a79beb6d-f248-45d1-be50-65a4fc2ddcef" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/files.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vid2vid/models/networks.py" beforeDir="false" afterPath="$PROJECT_DIR$/vid2vid/models/networks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vid2vid/options/test_options.py" beforeDir="false" afterPath="$PROJECT_DIR$/vid2vid/options/test_options.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pytorch-pretrained-BERT/examples/run_classifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pytorch-pretrained-BERT/examples/run_classifier.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pytorch-pretrained-BERT/pytorch_pretrained_bert/modeling.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pytorch-pretrained-BERT/pytorch_pretrained_bert/modeling.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/fastai/courses/dl2/imdb_scripts/merge_wiki.py" beforeDir="false" afterPath="$USER_HOME$/fastai/courses/dl2/imdb_scripts/merge_wiki.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/files.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-683">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/script.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>fir</find>
+      <find>dir</find>
+      <find>path</find>
+      <find>tqdm</find>
+      <find>BertTokenizer</find>
+      <find>а</find>
+      <find>$PROJECT_DIR$/</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/1.gmm.ipynb" />
+        <option value="$PROJECT_DIR$/Lesson 2 /image-to-caption.ipynb" />
+        <option value="$PROJECT_DIR$/Lesson 3/DeepSpeech.ipynb" />
+        <option value="$PROJECT_DIR$/Lesson 4/1.gan.ipynb" />
+        <option value="$PROJECT_DIR$/Lesson 3/vanila-seq2seq.ipynb" />
+        <option value="$PROJECT_DIR$/Lesson 3/Attention.ipynb" />
+        <option value="$PROJECT_DIR$/Lesson 7/DynamicMemoryPlus.ipynb" />
+        <option value="$PROJECT_DIR$/Lesson 3/Transformer.ipynb" />
+        <option value="$PROJECT_DIR$/Lesson 8 (SQUAD)/Untitled.ipynb" />
+        <option value="$PROJECT_DIR$/CycleGAN/main.ipynb" />
+        <option value="$PROJECT_DIR$/CycleGAN/Pix2Pix.ipynb" />
+        <option value="$PROJECT_DIR$/Wiki/wiki.sh" />
+        <option value="$USER_HOME$/fastai/courses/dl2/imdb_scripts/wikiextractor/wikiextractor.py" />
+        <option value="$PROJECT_DIR$/KazakhLM/main.ipynb" />
+        <option value="$PROJECT_DIR$/vid2vid/jai.py" />
+        <option value="$PROJECT_DIR$/CycleGAN/face_dataset/HelenFace Annotation.ipynb" />
+        <option value="$PROJECT_DIR$/CycleGAN/Pix2PixHD.ipynb" />
+        <option value="$PROJECT_DIR$/../flaskapp/Dockerfile" />
+        <option value="$PROJECT_DIR$/../flaskapp/requirements.txt" />
+        <option value="$PROJECT_DIR$/../flaskapp/test.txt" />
+        <option value="$PROJECT_DIR$/../flaskapp/client.py" />
+        <option value="$PROJECT_DIR$/../flaskapp/main.py" />
+        <option value="$PROJECT_DIR$/../pytorch-pretrained-BERT/prune_schedule.yaml" />
+        <option value="$PROJECT_DIR$/../pytorch-pretrained-BERT/Untitled.ipynb" />
+        <option value="$PROJECT_DIR$/../pytorch-pretrained-BERT/examples/run_classifier.py" />
+        <option value="$PROJECT_DIR$/../btsd_ai_bot/edge_detector.py" />
+        <option value="$PROJECT_DIR$/../btsd_ai_bot/main.py" />
+        <option value="$PROJECT_DIR$/../btsd_ai_bot/face_gen.py" />
+        <option value="$PROJECT_DIR$/CycleGAN/Pix2PIxHD/Dataset.py" />
+        <option value="$PROJECT_DIR$/CycleGAN/Pix2PIxHD/models.py" />
+        <option value="$PROJECT_DIR$/CycleGAN/Pix2PIxHD/train.py" />
+        <option value="$PROJECT_DIR$/../btsd_ai_bot/bot.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/script.sh" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="530" />
+    <option name="y" value="27" />
+    <option name="width" value="1380" />
+    <option name="height" value="995" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ErzaTut" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ErzaTut" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Lesson3(Transciptions)" />
+      <recent name="$PROJECT_DIR$/Lesson 3 (Transciptions)" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../btsd_ai_bot/face_models" />
+      <recent name="$PROJECT_DIR$/../btsd_ai_bot" />
+      <recent name="$PROJECT_DIR$/../flaskapp" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.client">
+    <configuration name="ErzaTut" type="JupiterNotebook" factoryName="Jupyter Notebook">
+      <module name="ErzaTut" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="additionalOptions" value="" />
+      <option name="ipnbHost" value="127.0.0.1" />
+      <option name="ipnbPort" value="8888" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bot" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="btsd_ai_bot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../btsd_ai_bot" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../btsd_ai_bot/bot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="client" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="flaskapp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../flaskapp" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../flaskapp/client.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="face_gen" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="btsd_ai_bot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../btsd_ai_bot" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../btsd_ai_bot/face_gen.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.bot" />
+      <item itemvalue="Python.client" />
+      <item itemvalue="Python.face_gen" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.bot" />
+        <item itemvalue="Python.face_gen" />
+        <item itemvalue="Python.client" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a79beb6d-f248-45d1-be50-65a4fc2ddcef" name="Default Changelist" comment="" />
+      <created>1537956186519</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537956186519</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="17" width="1853" height="1062" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18797815" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32974717" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32974717" />
+      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.49972692" weight="0.3582571" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49945354" visible="true" weight="0.32756758" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50054646" side_tool="true" weight="0.32756758" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32867134" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Lesson 3/Attention.ipynb" />
+    <entry file="file://$PROJECT_DIR$/Lesson 4/1.gan.ipynb" />
+    <entry file="file://$PROJECT_DIR$/Lesson 1/1.gmm.ipynb" />
+    <entry file="file://$PROJECT_DIR$/Lesson 7/DynamicMemoryPlus.ipynb" />
+    <entry file="file://$PROJECT_DIR$/Lesson 3/Transformer.ipynb" />
+    <entry file="file://$PROJECT_DIR$/Lesson 8 (SQUAD)/Untitled.ipynb" />
+    <entry file="file://$PROJECT_DIR$/CycleGAN/main.ipynb" />
+    <entry file="file://$PROJECT_DIR$/Wiki/wiki.sh" />
+    <entry file="file://$PROJECT_DIR$/CycleGAN/Pix2Pix.ipynb" />
+    <entry file="file://$PROJECT_DIR$/KazakhLM/main.ipynb" />
+    <entry file="file://$USER_HOME$/fastai/courses/dl2/imdb_scripts/wikiextractor/WikiExtractor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CycleGAN/face_dataset/edge_detector.ipynb" />
+    <entry file="file://$PROJECT_DIR$/CycleGAN/Pix2PixHD.ipynb" />
+    <entry file="file://$PROJECT_DIR$/CycleGAN/face_dataset/HelenFace Annotation.ipynb" />
+    <entry file="file://$PROJECT_DIR$/../flaskapp/labels.json" />
+    <entry file="file://$PROJECT_DIR$/../flaskapp/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pytorch-pretrained-BERT/Dataset/test.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2059">
+          <caret line="160" column="75" selection-start-line="160" selection-start-column="10" selection-end-line="160" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../flaskapp/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="36" selection-start-column="36" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../flaskapp/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../flaskapp/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="653">
+          <caret line="121" column="18" selection-start-line="121" selection-start-column="18" selection-end-line="121" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+            <element signature="e#462#673#0" />
+            <element signature="e#746#2810#0" />
+            <element signature="e#2838#3060#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TopicModelling/venv/lib/python3.6/site-packages/pytorch_pretrained_bert/tokenization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="245" selection-start-line="245" selection-end-line="245" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../flaskapp/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pytorch-pretrained-BERT/prune_schedule.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pytorch-pretrained-BERT/Untitled.ipynb" />
+    <entry file="file://$PROJECT_DIR$/../pytorch-pretrained-BERT/no_name.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pytorch-pretrained-BERT/examples/run_classifier.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14123">
+          <caret line="487" column="31" selection-start-line="487" selection-start-column="31" selection-end-line="487" selection-end-column="31" />
+          <folding>
+            <element signature="e#675#713#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pytorch-pretrained-BERT/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../distiller/distiller/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../distiller/distiller/examples/classifier_compression/compress_classifier.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="70" column="38" selection-start-line="70" selection-start-column="13" selection-end-line="70" selection-end-column="38" />
+          <folding>
+            <element signature="e#1998#2009#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TopicModelling/venv/lib/python3.6/site-packages/torch/serialization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="355" selection-start-line="355" selection-end-line="355" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../btsd_ai_bot/file_11.jpg" />
+    <entry file="file://$PROJECT_DIR$/../btsd_ai_bot/file_12.jpg" />
+    <entry file="file://$PROJECT_DIR$/../btsd_ai_bot/file_13.jpg" />
+    <entry file="file://$PROJECT_DIR$/../btsd_ai_bot/test.jpg" />
+    <entry file="file://$PROJECT_DIR$/../btsd_ai_bot/result.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../btsd_ai_bot/edge_detector.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="201" selection-start-line="201" selection-end-line="201" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#444#478#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../btsd_ai_bot/fuck.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../btsd_ai_bot/image.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../btsd_ai_bot/log_file_story.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-24472" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CycleGAN/Pix2PIxHD/Dataset.py" />
+    <entry file="file://$PROJECT_DIR$/CycleGAN/Pix2PIxHD/train.py" />
+    <entry file="file://$PROJECT_DIR$/CycleGAN/Pix2PIxHD/models.py" />
+    <entry file="file://$PROJECT_DIR$/../btsd_ai_bot/bot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="601">
+          <caret line="192" selection-start-line="192" selection-end-line="192" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#1381#1499#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../btsd_ai_bot/face_gen.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="537">
+          <caret line="273" column="12" selection-start-line="273" selection-start-column="12" selection-end-line="273" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../btsd_ai_bot/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="537">
+          <caret line="97" selection-start-line="97" selection-end-line="97" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson4(GAN)/bayes_gan_images/1_0.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson4(GAN)/bayes_gan_images/3_2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson10(AiGILE)/Untitled.ipynb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CycleGAN/devushka_fake_test0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-683">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

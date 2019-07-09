@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/CycleGAN/data" />
+      <excludeFolder url="file://$MODULE_DIR$/CycleGAN/facades" />
+      <excludeFolder url="file://$MODULE_DIR$/CycleGAN/face_dataset/celeba" />
+      <excludeFolder url="file://$MODULE_DIR$/CycleGAN/face_dataset/celeba-HQ" />
+      <excludeFolder url="file://$MODULE_DIR$/CycleGAN/horse2zebra" />
+      <excludeFolder url="file://$MODULE_DIR$/Lesson 1 (Sketch RNN)/Datasets" />
+      <excludeFolder url="file://$MODULE_DIR$/Lesson 2 (Image to Caption)/train2014" />
+      <excludeFolder url="file://$MODULE_DIR$/Lesson 3 (Transciptions)/data" />
+      <excludeFolder url="file://$MODULE_DIR$/Lesson 4 (GAN)/data" />
+      <excludeFolder url="file://$MODULE_DIR$/Lesson 5/img_align_celeba" />
+      <excludeFolder url="file://$MODULE_DIR$/Lesson 5/stargan_images" />
+      <excludeFolder url="file://$MODULE_DIR$/Lesson 7 (QUestion Answering)/tasks_1-20_v1-2" />
+      <excludeFolder url="file://$MODULE_DIR$/Lesson1(Sketch RNN)/Datasets" />
+      <excludeFolder url="file://$MODULE_DIR$/Lesson1(Sketch RNN)/Images" />
+      <excludeFolder url="file://$MODULE_DIR$/Lesson10(AiGILE)/data" />
+      <excludeFolder url="file://$MODULE_DIR$/Lesson2(Image to Caption)/annotations" />
+      <excludeFolder url="file://$MODULE_DIR$/Lesson2(Image to Caption)/data" />
+      <excludeFolder url="file://$MODULE_DIR$/Lesson2(Image to Caption)/train2014" />
+      <excludeFolder url="file://$MODULE_DIR$/Lesson4(GAN)/data" />
+      <excludeFolder url="file://$MODULE_DIR$/Lesson5(StarGAN)/img_align_celeba" />
+      <excludeFolder url="file://$MODULE_DIR$/Lesson5(StarGAN)/stargan_images" />
+      <excludeFolder url="file://$MODULE_DIR$/Lesson7(QUestion Answering)/tasks_1-20_v1-2" />
+      <excludeFolder url="file://$MODULE_DIR$/vid2vid/data" />
+      <excludeFolder url="file://$MODULE_DIR$/vid2vid/datasets" />
+      <excludeFolder url="file://$MODULE_DIR$/vid2vid/imgs" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.6 (TopicModelling)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
+  </component>
+</module>
